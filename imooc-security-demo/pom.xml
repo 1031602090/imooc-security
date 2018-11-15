@@ -13,7 +13,7 @@
     <dependencies>
         <dependency>
             <groupId>com.imooc.security</groupId>
-            <artifactId>imooc-security</artifactId>
+            <artifactId>imooc-security-broswer</artifactId>
             <version>${imooc.security.version}</version>
         </dependency>
     </dependencies>
