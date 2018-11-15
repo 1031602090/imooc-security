@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imooc-security.iml" filepath="$PROJECT_DIR$/imooc-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-security-app/imoocsecurityapp.iml" filepath="$PROJECT_DIR$/imooc-security-app/imoocsecurityapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-security-broswer/imoocsecuritybroswer.iml" filepath="$PROJECT_DIR$/imooc-security-broswer/imoocsecuritybroswer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-security-core/imoocsecuritycore.iml" filepath="$PROJECT_DIR$/imooc-security-core/imoocsecuritycore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-security-demo/imoocsecuritydemo.iml" filepath="$PROJECT_DIR$/imooc-security-demo/imoocsecuritydemo.iml" />
+    </modules>
+  </component>
+</project>
